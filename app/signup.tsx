@@ -272,6 +272,8 @@ const styles = StyleSheet.create({
     marginBottom: 15,
     fontSize: 16,
     color: '#fff',
+    minWidth: 280,
+    width: '100%',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 2 },
     shadowOpacity: 0.1,
